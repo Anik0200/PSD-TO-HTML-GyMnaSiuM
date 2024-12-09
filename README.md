@@ -2,7 +2,7 @@
 
 This repository contains a sleek and minimalist landing page.
 
-[DEMO](https://psd-to-html-gymnasium.vercel.app/)
+[DEMO](https://psd-to-html-gymnasium.netlify.app/)
 
 ## FEATURES :
 
